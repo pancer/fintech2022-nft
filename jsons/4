@@ -1,0 +1,23 @@
+{
+  "name": "FINTECH NFT #4",
+  "image": "https://gateway.pinata.cloud/ipfs/QmNjgRKTBAJMrkbugX7i1vVnQhKKwCuViyb5mjyvJjMz3r/panche.png",
+  "description": "Fintech 2022 Speakers",
+  "attributes": [
+    {
+      "trait_type": "Name",
+      "value": "Panche Ribarski"
+    },
+    {
+      "trait_type": "Module",
+      "value": "Two"
+    },
+    {
+      "trait_type": "Title",
+      "value": "PROFESSOR AT FACULTY OF COMPUTER SCIENCE AND ENGINEERING AND TEAM LEAD AT LOKA"
+    },
+    {
+      "trait_type": "Random number",
+      "value": 206
+    }
+  ]
+}

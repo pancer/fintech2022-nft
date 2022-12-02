@@ -1,0 +1,23 @@
+{
+  "name": "FINTECH NFT #6",
+  "image": "https://gateway.pinata.cloud/ipfs/QmNjgRKTBAJMrkbugX7i1vVnQhKKwCuViyb5mjyvJjMz3r/snezana.png",
+  "description": "Fintech 2022 Speakers",
+  "attributes": [
+    {
+      "trait_type": "Name",
+      "value": "Snezana Popovska"
+    },
+    {
+      "trait_type": "Module",
+      "value": "One"
+    },
+    {
+      "trait_type": "Title",
+      "value": "FINANCIAL ANALYST"
+    },
+    {
+      "trait_type": "Random number",
+      "value": 322
+    }
+  ]
+}

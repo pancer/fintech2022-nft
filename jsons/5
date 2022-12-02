@@ -1,0 +1,23 @@
+{
+  "name": "FINTECH NFT #5",
+  "image": "https://gateway.pinata.cloud/ipfs/QmNjgRKTBAJMrkbugX7i1vVnQhKKwCuViyb5mjyvJjMz3r/petre.png",
+  "description": "Fintech 2022 Speakers",
+  "attributes": [
+    {
+      "trait_type": "Name",
+      "value": "Petre Lameski"
+    },
+    {
+      "trait_type": "Module",
+      "value": "One"
+    },
+    {
+      "trait_type": "Title",
+      "value": "ASOCIATE PROFESSOR AND VICE DEAN FOR SCIENCE AND COLLABORATION AT UKIM"
+    },
+    {
+      "trait_type": "Random number",
+      "value": 412
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "name": "FINTECH NFT #1",
+  "image": "https://gateway.pinata.cloud/ipfs/QmNjgRKTBAJMrkbugX7i1vVnQhKKwCuViyb5mjyvJjMz3r/christopher.png",
+  "description": "Fintech 2022 Speakers",
+  "attributes": [
+    {
+      "trait_type": "Name",
+      "value": "Christopher Schmitz"
+    },
+    {
+      "trait_type": "Module",
+      "value": "One"
+    },
+    {
+      "trait_type": "Title",
+      "value": "EMEIA FSO FINTECH LEAD"
+    },
+    {
+      "trait_type": "Random number",
+      "value": 356
+    }
+  ]
+}

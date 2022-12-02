@@ -1,0 +1,23 @@
+{
+  "name": "FINTECH NFT #3",
+  "image": "https://gateway.pinata.cloud/ipfs/QmNjgRKTBAJMrkbugX7i1vVnQhKKwCuViyb5mjyvJjMz3r/darko.png",
+  "description": "Fintech 2022 Speakers",
+  "attributes": [
+    {
+      "trait_type": "Name",
+      "value": "Darko Stefanoski"
+    },
+    {
+      "trait_type": "Module",
+      "value": "Two"
+    },
+    {
+      "trait_type": "Title",
+      "value": "PARTNER IN THE DIGITAL LAW TEAM FOR FINANCIAL SERVICES AT EY SWITZERLAND"
+    },
+    {
+      "trait_type": "Random number",
+      "value": 412
+    }
+  ]
+}
